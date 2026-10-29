@@ -3,7 +3,7 @@
     <background android:drawable="@android:color/black"/>
     <foreground>
         <inset
-            android:drawable="@mipmap/ic_launcher"
+            android:drawable="@mipmap/ic_launcher_fg"
             android:inset="16.7%" />
     </foreground>
 </adaptive-icon>
